@@ -15,6 +15,10 @@ import echart from 'zcc-uniapp-echarts/components/'
 components:{
     echart
 }
+复制echarts到项目静态目录下
+```shell
+cp ./node_modules/zcc-uniapp-echarts/models/echarts.min.js ./static
+```
 ```
 # 使用
 ```html
