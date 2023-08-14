@@ -20,7 +20,6 @@ components:{
 ```shell
 cp ./node_modules/zcc-uniapp-echarts/models/echarts.min.js ./static
 ```
-```
 # 使用
 ```html
 <echart :option="options" style="height: 400px;"></echart>
