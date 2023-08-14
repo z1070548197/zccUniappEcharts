@@ -1,4 +1,5 @@
 uniapp使用echarts的封装
+app和h5可用
 # 安装
 ```shell
 npm i zcc-uniapp-echarts
