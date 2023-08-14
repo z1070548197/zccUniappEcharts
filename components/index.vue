@@ -29,7 +29,7 @@
 			} else {
 				// 动态引入类库
 				const script = document.createElement('script')
-				script.src = './static/echarts.min.js'  //下载方式请参考博客开头
+				script.src = './static/echarts.min.js' 
 				// script.src = './static/echarts/echarts.min.js'
 				script.onload = this.init
 				document.head.appendChild(script)
