@@ -12,7 +12,7 @@ Vue.use(echart);
 ```
 ## 局部引入
 ```javascript
-import echart from 'zcc-uniapp-echarts/components/'
+import echart from 'zcc-uniapp-echarts/components'
 components:{
     echart
 }
